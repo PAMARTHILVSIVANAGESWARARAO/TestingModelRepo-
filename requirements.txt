@@ -1,5 +1,12 @@
+# flask
+# gunicorn
+# tensorflow
+# numpy
+# pillow
+
+
 flask
 gunicorn
-tensorflow
-numpy
+tensorflow==2.15.0
+numpy==1.26.4
 pillow
